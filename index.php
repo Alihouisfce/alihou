@@ -11,6 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <h1> Projet git </h1>
+        <p> Bievenue dans GIT </p>
         <?php
         // put your code here
         ?>
