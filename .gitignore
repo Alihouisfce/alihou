@@ -1,0 +1,5 @@
+nbproject/*
+exlcusion/*
+
+!nbproject/project.properties
+!nbproject/projet.xml
